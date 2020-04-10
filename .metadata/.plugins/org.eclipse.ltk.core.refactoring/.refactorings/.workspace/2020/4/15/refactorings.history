@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;rfPacketTx_CC1310_LAUNCHXL_tirtos_ccs&apos; to &apos;rfPacketTx_CC1310_LAUNCHXL_tirtos_ccs_test&apos;" description="Rename resource &apos;rfPacketTx_CC1310_LAUNCHXL_tirtos_ccs&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/rfPacketTx_CC1310_LAUNCHXL_tirtos_ccs" name="rfPacketTx_CC1310_LAUNCHXL_tirtos_ccs_test" stamp="1586399021415" updateReferences="true"/>
+</session>

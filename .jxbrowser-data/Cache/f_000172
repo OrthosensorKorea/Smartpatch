@@ -1,0 +1,271 @@
+[
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "removeofflineLink": "api/resources?id=wu3G_d4gS_iCZU&path=Software/SimpleLink CC2640R2 SDK/Examples/Development Tools/CC2640R2 LaunchPad/TI Drivers/rfPacketTx/TI-RTOS/CCS Compiler/rfPacketTx&removeoffline=true",
+    "_id": "wu3G_d4gS_iCZU",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "CC2640R2 LaunchPad"
+    ],
+    "link": "api/linkTo/wu3G_d4gS_iCZU?extname=.json",
+    "linkType": "local",
+    "name": "overview.rov.json",
+    "packageUId": "com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "parentID": "wu3NkdrUl0xnm4",
+    "resourceType": "file",
+    "shortDescription": "rfPacketTx",
+    "type": "resource",
+    "text": "overview.rov.json",
+    "url": "/api/resources?path=Software/SimpleLink%20CC2640R2%20SDK/Examples/Development%20Tools/CC2640R2%20LaunchPad/TI%20Drivers/rfPacketTx/TI-RTOS/CCS%20Compiler/rfPacketTx&package=c2000ware_software_package__1.00.03.00::com.ti.SIMPLELINK_MSP432E4_SDK__3.40.01.02::motor_control_c2000ware_sdk_software_package__2.01.00.00::digital_power_c2000ware_sdk_software_package__3.00.00.00::sitara__1.02.00.00::ascstudio__1.0.0.0::com.ti.AWS_CC32XX__3.30.00.03::com.ti.AWS_MSP432E4__3.30.00.03::com.ti.AZURE_CC32XX__3.30.00.02::com.ti.AZURE_MSP432E4__3.30.00.02::energia.boards.cc13xx__5.20.0::energia.boards.cc3220emt__5.6.2::energia.core__18.0.0::energia.boards.msp432r__5.25.2::energia.tool.arm-none-eabi-gcc__6.3.1-20170620::energia.tool.ino2cpp__1.0.6::arm.gnu__9.2.1::com.ti.mmwave_automotive_toolbox__2.9.1::com.ti.mmwave_industrial_toolbox__4.2.1::msp430ware__3.80.09.03::powerSUITE_software_package__2.05.01.00::com.ti.SAIL__1.50.00.00::com.ti.SIMPLELINK_AUDIO_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_BLE_PLUGIN_AZURE_GATEWAY_EXAMPLE_PACK__3.20.00.22::com.ti.SIMPLELINK_CC13X0_SDK__3.20.00.23::com.ti.SIMPLELINK_CC13X2_26X2_SDK__3.40.00.02::com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.50.00.62::com.ti.SIMPLELINK_CC32XX_SDK__3.40.00.05::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__3.20.00.24::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__2.40.00.22::com.ti.SIMPLELINK_SDK_LVGL_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__2.20.00.08::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__2.20.00.05::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__1.50.00.15::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__2.20.00.06::com.ti.ti154stack_linux_x64__3.30.00.12::tirtos_cc13xx_cc26xx__2.21.00.06::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::com.ti.WATSON_CC32XX__1.20.00.04::com.ti.WATSON_MSP432E4__1.20.00.04::xdctools__3.60.02.34",
+    "packageOrder": 242
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "removeofflineLink": "api/resources?id=wu3fsxXrQTGhvs&path=Software/SimpleLink CC2640R2 SDK/Examples/Development Tools/CC2640R2 LaunchPad/TI Drivers/rfPacketTx/TI-RTOS/CCS Compiler/rfPacketTx&removeoffline=true",
+    "_id": "wu3fsxXrQTGhvs",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "CC2640R2 LaunchPad"
+    ],
+    "link": "api/linkTo/wu3fsxXrQTGhvs?extname=.c",
+    "linkType": "local",
+    "name": "main_tirtos.c",
+    "packageUId": "com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "parentID": "wu3NkdrUl0xnm4",
+    "resourceType": "file",
+    "shortDescription": "rfPacketTx",
+    "type": "resource",
+    "text": "main_tirtos.c",
+    "url": "/api/resources?path=Software/SimpleLink%20CC2640R2%20SDK/Examples/Development%20Tools/CC2640R2%20LaunchPad/TI%20Drivers/rfPacketTx/TI-RTOS/CCS%20Compiler/rfPacketTx&package=c2000ware_software_package__1.00.03.00::com.ti.SIMPLELINK_MSP432E4_SDK__3.40.01.02::motor_control_c2000ware_sdk_software_package__2.01.00.00::digital_power_c2000ware_sdk_software_package__3.00.00.00::sitara__1.02.00.00::ascstudio__1.0.0.0::com.ti.AWS_CC32XX__3.30.00.03::com.ti.AWS_MSP432E4__3.30.00.03::com.ti.AZURE_CC32XX__3.30.00.02::com.ti.AZURE_MSP432E4__3.30.00.02::energia.boards.cc13xx__5.20.0::energia.boards.cc3220emt__5.6.2::energia.core__18.0.0::energia.boards.msp432r__5.25.2::energia.tool.arm-none-eabi-gcc__6.3.1-20170620::energia.tool.ino2cpp__1.0.6::arm.gnu__9.2.1::com.ti.mmwave_automotive_toolbox__2.9.1::com.ti.mmwave_industrial_toolbox__4.2.1::msp430ware__3.80.09.03::powerSUITE_software_package__2.05.01.00::com.ti.SAIL__1.50.00.00::com.ti.SIMPLELINK_AUDIO_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_BLE_PLUGIN_AZURE_GATEWAY_EXAMPLE_PACK__3.20.00.22::com.ti.SIMPLELINK_CC13X0_SDK__3.20.00.23::com.ti.SIMPLELINK_CC13X2_26X2_SDK__3.40.00.02::com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.50.00.62::com.ti.SIMPLELINK_CC32XX_SDK__3.40.00.05::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__3.20.00.24::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__2.40.00.22::com.ti.SIMPLELINK_SDK_LVGL_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__2.20.00.08::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__2.20.00.05::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__1.50.00.15::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__2.20.00.06::com.ti.ti154stack_linux_x64__3.30.00.12::tirtos_cc13xx_cc26xx__2.21.00.06::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::com.ti.WATSON_CC32XX__1.20.00.04::com.ti.WATSON_MSP432E4__1.20.00.04::xdctools__3.60.02.34",
+    "packageOrder": 242
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "removeofflineLink": "api/resources?id=wu3p8HBJzortw4&path=Software/SimpleLink CC2640R2 SDK/Examples/Development Tools/CC2640R2 LaunchPad/TI Drivers/rfPacketTx/TI-RTOS/CCS Compiler/rfPacketTx&removeoffline=true",
+    "_id": "wu3p8HBJzortw4",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "CC2640R2 LaunchPad"
+    ],
+    "link": "api/linkTo/wu3p8HBJzortw4?extname=.md",
+    "linkType": "local",
+    "name": "README.md",
+    "packageUId": "com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "parentID": "wu3NkdrUl0xnm4",
+    "resourceType": "file",
+    "shortDescription": "rfPacketTx",
+    "type": "resource",
+    "text": "README.md",
+    "url": "/api/resources?path=Software/SimpleLink%20CC2640R2%20SDK/Examples/Development%20Tools/CC2640R2%20LaunchPad/TI%20Drivers/rfPacketTx/TI-RTOS/CCS%20Compiler/rfPacketTx&package=c2000ware_software_package__1.00.03.00::com.ti.SIMPLELINK_MSP432E4_SDK__3.40.01.02::motor_control_c2000ware_sdk_software_package__2.01.00.00::digital_power_c2000ware_sdk_software_package__3.00.00.00::sitara__1.02.00.00::ascstudio__1.0.0.0::com.ti.AWS_CC32XX__3.30.00.03::com.ti.AWS_MSP432E4__3.30.00.03::com.ti.AZURE_CC32XX__3.30.00.02::com.ti.AZURE_MSP432E4__3.30.00.02::energia.boards.cc13xx__5.20.0::energia.boards.cc3220emt__5.6.2::energia.core__18.0.0::energia.boards.msp432r__5.25.2::energia.tool.arm-none-eabi-gcc__6.3.1-20170620::energia.tool.ino2cpp__1.0.6::arm.gnu__9.2.1::com.ti.mmwave_automotive_toolbox__2.9.1::com.ti.mmwave_industrial_toolbox__4.2.1::msp430ware__3.80.09.03::powerSUITE_software_package__2.05.01.00::com.ti.SAIL__1.50.00.00::com.ti.SIMPLELINK_AUDIO_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_BLE_PLUGIN_AZURE_GATEWAY_EXAMPLE_PACK__3.20.00.22::com.ti.SIMPLELINK_CC13X0_SDK__3.20.00.23::com.ti.SIMPLELINK_CC13X2_26X2_SDK__3.40.00.02::com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.50.00.62::com.ti.SIMPLELINK_CC32XX_SDK__3.40.00.05::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__3.20.00.24::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__2.40.00.22::com.ti.SIMPLELINK_SDK_LVGL_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__2.20.00.08::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__2.20.00.05::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__1.50.00.15::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__2.20.00.06::com.ti.ti154stack_linux_x64__3.30.00.12::tirtos_cc13xx_cc26xx__2.21.00.06::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::com.ti.WATSON_CC32XX__1.20.00.04::com.ti.WATSON_MSP432E4__1.20.00.04::xdctools__3.60.02.34",
+    "packageOrder": 242
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "removeofflineLink": "api/resources?id=wu3vSGC33yim40&path=Software/SimpleLink CC2640R2 SDK/Examples/Development Tools/CC2640R2 LaunchPad/TI Drivers/rfPacketTx/TI-RTOS/CCS Compiler/rfPacketTx&removeoffline=true",
+    "_id": "wu3vSGC33yim40",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "CC2640R2 LaunchPad"
+    ],
+    "link": "api/linkTo/wu3vSGC33yim40?extname=.c",
+    "linkType": "local",
+    "name": "rfPacketTx.c",
+    "packageUId": "com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "parentID": "wu3NkdrUl0xnm4",
+    "resourceType": "file",
+    "shortDescription": "rfPacketTx",
+    "type": "resource",
+    "text": "rfPacketTx.c",
+    "url": "/api/resources?path=Software/SimpleLink%20CC2640R2%20SDK/Examples/Development%20Tools/CC2640R2%20LaunchPad/TI%20Drivers/rfPacketTx/TI-RTOS/CCS%20Compiler/rfPacketTx&package=c2000ware_software_package__1.00.03.00::com.ti.SIMPLELINK_MSP432E4_SDK__3.40.01.02::motor_control_c2000ware_sdk_software_package__2.01.00.00::digital_power_c2000ware_sdk_software_package__3.00.00.00::sitara__1.02.00.00::ascstudio__1.0.0.0::com.ti.AWS_CC32XX__3.30.00.03::com.ti.AWS_MSP432E4__3.30.00.03::com.ti.AZURE_CC32XX__3.30.00.02::com.ti.AZURE_MSP432E4__3.30.00.02::energia.boards.cc13xx__5.20.0::energia.boards.cc3220emt__5.6.2::energia.core__18.0.0::energia.boards.msp432r__5.25.2::energia.tool.arm-none-eabi-gcc__6.3.1-20170620::energia.tool.ino2cpp__1.0.6::arm.gnu__9.2.1::com.ti.mmwave_automotive_toolbox__2.9.1::com.ti.mmwave_industrial_toolbox__4.2.1::msp430ware__3.80.09.03::powerSUITE_software_package__2.05.01.00::com.ti.SAIL__1.50.00.00::com.ti.SIMPLELINK_AUDIO_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_BLE_PLUGIN_AZURE_GATEWAY_EXAMPLE_PACK__3.20.00.22::com.ti.SIMPLELINK_CC13X0_SDK__3.20.00.23::com.ti.SIMPLELINK_CC13X2_26X2_SDK__3.40.00.02::com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.50.00.62::com.ti.SIMPLELINK_CC32XX_SDK__3.40.00.05::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__3.20.00.24::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__2.40.00.22::com.ti.SIMPLELINK_SDK_LVGL_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__2.20.00.08::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__2.20.00.05::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__1.50.00.15::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__2.20.00.06::com.ti.ti154stack_linux_x64__3.30.00.12::tirtos_cc13xx_cc26xx__2.21.00.06::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::com.ti.WATSON_CC32XX__1.20.00.04::com.ti.WATSON_MSP432E4__1.20.00.04::xdctools__3.60.02.34",
+    "packageOrder": 242
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "removeofflineLink": "api/resources?id=wu3_TQYzDILNwc&path=Software/SimpleLink CC2640R2 SDK/Examples/Development Tools/CC2640R2 LaunchPad/TI Drivers/rfPacketTx/TI-RTOS/CCS Compiler/rfPacketTx&removeoffline=true",
+    "_id": "wu3_TQYzDILNwc",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "CC2640R2 LaunchPad"
+    ],
+    "link": "api/linkTo/wu3_TQYzDILNwc?extname=.h",
+    "linkType": "local",
+    "name": "Board.h",
+    "packageUId": "com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "parentID": "wu3NkdrUl0xnm4",
+    "resourceType": "file",
+    "shortDescription": "rfPacketTx",
+    "type": "resource",
+    "text": "Board.h",
+    "url": "/api/resources?path=Software/SimpleLink%20CC2640R2%20SDK/Examples/Development%20Tools/CC2640R2%20LaunchPad/TI%20Drivers/rfPacketTx/TI-RTOS/CCS%20Compiler/rfPacketTx&package=c2000ware_software_package__1.00.03.00::com.ti.SIMPLELINK_MSP432E4_SDK__3.40.01.02::motor_control_c2000ware_sdk_software_package__2.01.00.00::digital_power_c2000ware_sdk_software_package__3.00.00.00::sitara__1.02.00.00::ascstudio__1.0.0.0::com.ti.AWS_CC32XX__3.30.00.03::com.ti.AWS_MSP432E4__3.30.00.03::com.ti.AZURE_CC32XX__3.30.00.02::com.ti.AZURE_MSP432E4__3.30.00.02::energia.boards.cc13xx__5.20.0::energia.boards.cc3220emt__5.6.2::energia.core__18.0.0::energia.boards.msp432r__5.25.2::energia.tool.arm-none-eabi-gcc__6.3.1-20170620::energia.tool.ino2cpp__1.0.6::arm.gnu__9.2.1::com.ti.mmwave_automotive_toolbox__2.9.1::com.ti.mmwave_industrial_toolbox__4.2.1::msp430ware__3.80.09.03::powerSUITE_software_package__2.05.01.00::com.ti.SAIL__1.50.00.00::com.ti.SIMPLELINK_AUDIO_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_BLE_PLUGIN_AZURE_GATEWAY_EXAMPLE_PACK__3.20.00.22::com.ti.SIMPLELINK_CC13X0_SDK__3.20.00.23::com.ti.SIMPLELINK_CC13X2_26X2_SDK__3.40.00.02::com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.50.00.62::com.ti.SIMPLELINK_CC32XX_SDK__3.40.00.05::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__3.20.00.24::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__2.40.00.22::com.ti.SIMPLELINK_SDK_LVGL_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__2.20.00.08::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__2.20.00.05::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__1.50.00.15::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__2.20.00.06::com.ti.ti154stack_linux_x64__3.30.00.12::tirtos_cc13xx_cc26xx__2.21.00.06::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::com.ti.WATSON_CC32XX__1.20.00.04::com.ti.WATSON_MSP432E4__1.20.00.04::xdctools__3.60.02.34",
+    "packageOrder": 242
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "removeofflineLink": "api/resources?id=wu3cxVQ9d48Fvw&path=Software/SimpleLink CC2640R2 SDK/Examples/Development Tools/CC2640R2 LaunchPad/TI Drivers/rfPacketTx/TI-RTOS/CCS Compiler/rfPacketTx&removeoffline=true",
+    "_id": "wu3cxVQ9d48Fvw",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "CC2640R2 LaunchPad"
+    ],
+    "link": "api/linkTo/wu3cxVQ9d48Fvw?extname=.html",
+    "linkType": "local",
+    "name": "Board.html",
+    "packageUId": "com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "parentID": "wu3NkdrUl0xnm4",
+    "resourceType": "file",
+    "shortDescription": "rfPacketTx",
+    "type": "resource",
+    "text": "Board.html",
+    "url": "/api/resources?path=Software/SimpleLink%20CC2640R2%20SDK/Examples/Development%20Tools/CC2640R2%20LaunchPad/TI%20Drivers/rfPacketTx/TI-RTOS/CCS%20Compiler/rfPacketTx&package=c2000ware_software_package__1.00.03.00::com.ti.SIMPLELINK_MSP432E4_SDK__3.40.01.02::motor_control_c2000ware_sdk_software_package__2.01.00.00::digital_power_c2000ware_sdk_software_package__3.00.00.00::sitara__1.02.00.00::ascstudio__1.0.0.0::com.ti.AWS_CC32XX__3.30.00.03::com.ti.AWS_MSP432E4__3.30.00.03::com.ti.AZURE_CC32XX__3.30.00.02::com.ti.AZURE_MSP432E4__3.30.00.02::energia.boards.cc13xx__5.20.0::energia.boards.cc3220emt__5.6.2::energia.core__18.0.0::energia.boards.msp432r__5.25.2::energia.tool.arm-none-eabi-gcc__6.3.1-20170620::energia.tool.ino2cpp__1.0.6::arm.gnu__9.2.1::com.ti.mmwave_automotive_toolbox__2.9.1::com.ti.mmwave_industrial_toolbox__4.2.1::msp430ware__3.80.09.03::powerSUITE_software_package__2.05.01.00::com.ti.SAIL__1.50.00.00::com.ti.SIMPLELINK_AUDIO_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_BLE_PLUGIN_AZURE_GATEWAY_EXAMPLE_PACK__3.20.00.22::com.ti.SIMPLELINK_CC13X0_SDK__3.20.00.23::com.ti.SIMPLELINK_CC13X2_26X2_SDK__3.40.00.02::com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.50.00.62::com.ti.SIMPLELINK_CC32XX_SDK__3.40.00.05::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__3.20.00.24::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__2.40.00.22::com.ti.SIMPLELINK_SDK_LVGL_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__2.20.00.08::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__2.20.00.05::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__1.50.00.15::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__2.20.00.06::com.ti.ti154stack_linux_x64__3.30.00.12::tirtos_cc13xx_cc26xx__2.21.00.06::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::com.ti.WATSON_CC32XX__1.20.00.04::com.ti.WATSON_MSP432E4__1.20.00.04::xdctools__3.60.02.34",
+    "packageOrder": 242
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "removeofflineLink": "api/resources?id=wu3U_ofiQMnpKY&path=Software/SimpleLink CC2640R2 SDK/Examples/Development Tools/CC2640R2 LaunchPad/TI Drivers/rfPacketTx/TI-RTOS/CCS Compiler/rfPacketTx&removeoffline=true",
+    "_id": "wu3U_ofiQMnpKY",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "CC2640R2 LaunchPad"
+    ],
+    "link": "api/linkTo/wu3U_ofiQMnpKY?extname=.c",
+    "linkType": "local",
+    "name": "CC2640R2_LAUNCHXL.c",
+    "packageUId": "com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "parentID": "wu3NkdrUl0xnm4",
+    "resourceType": "file",
+    "shortDescription": "rfPacketTx",
+    "type": "resource",
+    "text": "CC2640R2_LAUNCHXL.c",
+    "url": "/api/resources?path=Software/SimpleLink%20CC2640R2%20SDK/Examples/Development%20Tools/CC2640R2%20LaunchPad/TI%20Drivers/rfPacketTx/TI-RTOS/CCS%20Compiler/rfPacketTx&package=c2000ware_software_package__1.00.03.00::com.ti.SIMPLELINK_MSP432E4_SDK__3.40.01.02::motor_control_c2000ware_sdk_software_package__2.01.00.00::digital_power_c2000ware_sdk_software_package__3.00.00.00::sitara__1.02.00.00::ascstudio__1.0.0.0::com.ti.AWS_CC32XX__3.30.00.03::com.ti.AWS_MSP432E4__3.30.00.03::com.ti.AZURE_CC32XX__3.30.00.02::com.ti.AZURE_MSP432E4__3.30.00.02::energia.boards.cc13xx__5.20.0::energia.boards.cc3220emt__5.6.2::energia.core__18.0.0::energia.boards.msp432r__5.25.2::energia.tool.arm-none-eabi-gcc__6.3.1-20170620::energia.tool.ino2cpp__1.0.6::arm.gnu__9.2.1::com.ti.mmwave_automotive_toolbox__2.9.1::com.ti.mmwave_industrial_toolbox__4.2.1::msp430ware__3.80.09.03::powerSUITE_software_package__2.05.01.00::com.ti.SAIL__1.50.00.00::com.ti.SIMPLELINK_AUDIO_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_BLE_PLUGIN_AZURE_GATEWAY_EXAMPLE_PACK__3.20.00.22::com.ti.SIMPLELINK_CC13X0_SDK__3.20.00.23::com.ti.SIMPLELINK_CC13X2_26X2_SDK__3.40.00.02::com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.50.00.62::com.ti.SIMPLELINK_CC32XX_SDK__3.40.00.05::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__3.20.00.24::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__2.40.00.22::com.ti.SIMPLELINK_SDK_LVGL_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__2.20.00.08::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__2.20.00.05::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__1.50.00.15::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__2.20.00.06::com.ti.ti154stack_linux_x64__3.30.00.12::tirtos_cc13xx_cc26xx__2.21.00.06::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::com.ti.WATSON_CC32XX__1.20.00.04::com.ti.WATSON_MSP432E4__1.20.00.04::xdctools__3.60.02.34",
+    "packageOrder": 242
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "removeofflineLink": "api/resources?id=wu3H5E7cKUwmPM&path=Software/SimpleLink CC2640R2 SDK/Examples/Development Tools/CC2640R2 LaunchPad/TI Drivers/rfPacketTx/TI-RTOS/CCS Compiler/rfPacketTx&removeoffline=true",
+    "_id": "wu3H5E7cKUwmPM",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "CC2640R2 LaunchPad"
+    ],
+    "link": "api/linkTo/wu3H5E7cKUwmPM?extname=.h",
+    "linkType": "local",
+    "name": "CC2640R2_LAUNCHXL.h",
+    "packageUId": "com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "parentID": "wu3NkdrUl0xnm4",
+    "resourceType": "file",
+    "shortDescription": "rfPacketTx",
+    "type": "resource",
+    "text": "CC2640R2_LAUNCHXL.h",
+    "url": "/api/resources?path=Software/SimpleLink%20CC2640R2%20SDK/Examples/Development%20Tools/CC2640R2%20LaunchPad/TI%20Drivers/rfPacketTx/TI-RTOS/CCS%20Compiler/rfPacketTx&package=c2000ware_software_package__1.00.03.00::com.ti.SIMPLELINK_MSP432E4_SDK__3.40.01.02::motor_control_c2000ware_sdk_software_package__2.01.00.00::digital_power_c2000ware_sdk_software_package__3.00.00.00::sitara__1.02.00.00::ascstudio__1.0.0.0::com.ti.AWS_CC32XX__3.30.00.03::com.ti.AWS_MSP432E4__3.30.00.03::com.ti.AZURE_CC32XX__3.30.00.02::com.ti.AZURE_MSP432E4__3.30.00.02::energia.boards.cc13xx__5.20.0::energia.boards.cc3220emt__5.6.2::energia.core__18.0.0::energia.boards.msp432r__5.25.2::energia.tool.arm-none-eabi-gcc__6.3.1-20170620::energia.tool.ino2cpp__1.0.6::arm.gnu__9.2.1::com.ti.mmwave_automotive_toolbox__2.9.1::com.ti.mmwave_industrial_toolbox__4.2.1::msp430ware__3.80.09.03::powerSUITE_software_package__2.05.01.00::com.ti.SAIL__1.50.00.00::com.ti.SIMPLELINK_AUDIO_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_BLE_PLUGIN_AZURE_GATEWAY_EXAMPLE_PACK__3.20.00.22::com.ti.SIMPLELINK_CC13X0_SDK__3.20.00.23::com.ti.SIMPLELINK_CC13X2_26X2_SDK__3.40.00.02::com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.50.00.62::com.ti.SIMPLELINK_CC32XX_SDK__3.40.00.05::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__3.20.00.24::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__2.40.00.22::com.ti.SIMPLELINK_SDK_LVGL_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__2.20.00.08::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__2.20.00.05::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__1.50.00.15::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__2.20.00.06::com.ti.ti154stack_linux_x64__3.30.00.12::tirtos_cc13xx_cc26xx__2.21.00.06::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::com.ti.WATSON_CC32XX__1.20.00.04::com.ti.WATSON_MSP432E4__1.20.00.04::xdctools__3.60.02.34",
+    "packageOrder": 242
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "removeofflineLink": "api/resources?id=wu3hEMVolGitf4&path=Software/SimpleLink CC2640R2 SDK/Examples/Development Tools/CC2640R2 LaunchPad/TI Drivers/rfPacketTx/TI-RTOS/CCS Compiler/rfPacketTx&removeoffline=true",
+    "_id": "wu3hEMVolGitf4",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "CC2640R2 LaunchPad"
+    ],
+    "link": "api/linkTo/wu3hEMVolGitf4?extname=.c",
+    "linkType": "local",
+    "name": "CC2640R2_LAUNCHXL_fxns.c",
+    "packageUId": "com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "parentID": "wu3NkdrUl0xnm4",
+    "resourceType": "file",
+    "shortDescription": "rfPacketTx",
+    "type": "resource",
+    "text": "CC2640R2_LAUNCHXL_fxns.c",
+    "url": "/api/resources?path=Software/SimpleLink%20CC2640R2%20SDK/Examples/Development%20Tools/CC2640R2%20LaunchPad/TI%20Drivers/rfPacketTx/TI-RTOS/CCS%20Compiler/rfPacketTx&package=c2000ware_software_package__1.00.03.00::com.ti.SIMPLELINK_MSP432E4_SDK__3.40.01.02::motor_control_c2000ware_sdk_software_package__2.01.00.00::digital_power_c2000ware_sdk_software_package__3.00.00.00::sitara__1.02.00.00::ascstudio__1.0.0.0::com.ti.AWS_CC32XX__3.30.00.03::com.ti.AWS_MSP432E4__3.30.00.03::com.ti.AZURE_CC32XX__3.30.00.02::com.ti.AZURE_MSP432E4__3.30.00.02::energia.boards.cc13xx__5.20.0::energia.boards.cc3220emt__5.6.2::energia.core__18.0.0::energia.boards.msp432r__5.25.2::energia.tool.arm-none-eabi-gcc__6.3.1-20170620::energia.tool.ino2cpp__1.0.6::arm.gnu__9.2.1::com.ti.mmwave_automotive_toolbox__2.9.1::com.ti.mmwave_industrial_toolbox__4.2.1::msp430ware__3.80.09.03::powerSUITE_software_package__2.05.01.00::com.ti.SAIL__1.50.00.00::com.ti.SIMPLELINK_AUDIO_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_BLE_PLUGIN_AZURE_GATEWAY_EXAMPLE_PACK__3.20.00.22::com.ti.SIMPLELINK_CC13X0_SDK__3.20.00.23::com.ti.SIMPLELINK_CC13X2_26X2_SDK__3.40.00.02::com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.50.00.62::com.ti.SIMPLELINK_CC32XX_SDK__3.40.00.05::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__3.20.00.24::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__2.40.00.22::com.ti.SIMPLELINK_SDK_LVGL_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__2.20.00.08::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__2.20.00.05::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__1.50.00.15::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__2.20.00.06::com.ti.ti154stack_linux_x64__3.30.00.12::tirtos_cc13xx_cc26xx__2.21.00.06::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::com.ti.WATSON_CC32XX__1.20.00.04::com.ti.WATSON_MSP432E4__1.20.00.04::xdctools__3.60.02.34",
+    "packageOrder": 242
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "removeofflineLink": "api/resources?id=wu3DtGxZVY90ZY&path=Software/SimpleLink CC2640R2 SDK/Examples/Development Tools/CC2640R2 LaunchPad/TI Drivers/rfPacketTx/TI-RTOS/CCS Compiler/rfPacketTx&removeoffline=true",
+    "_id": "wu3DtGxZVY90ZY",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "CC2640R2 LaunchPad"
+    ],
+    "link": "api/linkTo/wu3DtGxZVY90ZY?extname=.cmd",
+    "linkType": "local",
+    "name": "CC2640R2_LAUNCHXL_TIRTOS.cmd",
+    "packageUId": "com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "parentID": "wu3NkdrUl0xnm4",
+    "resourceType": "file",
+    "shortDescription": "rfPacketTx",
+    "type": "resource",
+    "text": "CC2640R2_LAUNCHXL_TIRTOS.cmd",
+    "url": "/api/resources?path=Software/SimpleLink%20CC2640R2%20SDK/Examples/Development%20Tools/CC2640R2%20LaunchPad/TI%20Drivers/rfPacketTx/TI-RTOS/CCS%20Compiler/rfPacketTx&package=c2000ware_software_package__1.00.03.00::com.ti.SIMPLELINK_MSP432E4_SDK__3.40.01.02::motor_control_c2000ware_sdk_software_package__2.01.00.00::digital_power_c2000ware_sdk_software_package__3.00.00.00::sitara__1.02.00.00::ascstudio__1.0.0.0::com.ti.AWS_CC32XX__3.30.00.03::com.ti.AWS_MSP432E4__3.30.00.03::com.ti.AZURE_CC32XX__3.30.00.02::com.ti.AZURE_MSP432E4__3.30.00.02::energia.boards.cc13xx__5.20.0::energia.boards.cc3220emt__5.6.2::energia.core__18.0.0::energia.boards.msp432r__5.25.2::energia.tool.arm-none-eabi-gcc__6.3.1-20170620::energia.tool.ino2cpp__1.0.6::arm.gnu__9.2.1::com.ti.mmwave_automotive_toolbox__2.9.1::com.ti.mmwave_industrial_toolbox__4.2.1::msp430ware__3.80.09.03::powerSUITE_software_package__2.05.01.00::com.ti.SAIL__1.50.00.00::com.ti.SIMPLELINK_AUDIO_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_BLE_PLUGIN_AZURE_GATEWAY_EXAMPLE_PACK__3.20.00.22::com.ti.SIMPLELINK_CC13X0_SDK__3.20.00.23::com.ti.SIMPLELINK_CC13X2_26X2_SDK__3.40.00.02::com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.50.00.62::com.ti.SIMPLELINK_CC32XX_SDK__3.40.00.05::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__3.20.00.24::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__2.40.00.22::com.ti.SIMPLELINK_SDK_LVGL_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__2.20.00.08::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__2.20.00.05::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__1.50.00.15::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__2.20.00.06::com.ti.ti154stack_linux_x64__3.30.00.12::tirtos_cc13xx_cc26xx__2.21.00.06::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::com.ti.WATSON_CC32XX__1.20.00.04::com.ti.WATSON_MSP432E4__1.20.00.04::xdctools__3.60.02.34",
+    "packageOrder": 242
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "removeofflineLink": "api/resources?id=wu3W1DZJLxS5Cw&path=Software/SimpleLink CC2640R2 SDK/Examples/Development Tools/CC2640R2 LaunchPad/TI Drivers/rfPacketTx/TI-RTOS/CCS Compiler/rfPacketTx&removeoffline=true",
+    "_id": "wu3W1DZJLxS5Cw",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "CC2640R2 LaunchPad"
+    ],
+    "link": "api/linkTo/wu3W1DZJLxS5Cw?extname=.c",
+    "linkType": "local",
+    "name": "ccfg.c",
+    "packageUId": "com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "parentID": "wu3NkdrUl0xnm4",
+    "resourceType": "file",
+    "shortDescription": "rfPacketTx",
+    "type": "resource",
+    "text": "ccfg.c",
+    "url": "/api/resources?path=Software/SimpleLink%20CC2640R2%20SDK/Examples/Development%20Tools/CC2640R2%20LaunchPad/TI%20Drivers/rfPacketTx/TI-RTOS/CCS%20Compiler/rfPacketTx&package=c2000ware_software_package__1.00.03.00::com.ti.SIMPLELINK_MSP432E4_SDK__3.40.01.02::motor_control_c2000ware_sdk_software_package__2.01.00.00::digital_power_c2000ware_sdk_software_package__3.00.00.00::sitara__1.02.00.00::ascstudio__1.0.0.0::com.ti.AWS_CC32XX__3.30.00.03::com.ti.AWS_MSP432E4__3.30.00.03::com.ti.AZURE_CC32XX__3.30.00.02::com.ti.AZURE_MSP432E4__3.30.00.02::energia.boards.cc13xx__5.20.0::energia.boards.cc3220emt__5.6.2::energia.core__18.0.0::energia.boards.msp432r__5.25.2::energia.tool.arm-none-eabi-gcc__6.3.1-20170620::energia.tool.ino2cpp__1.0.6::arm.gnu__9.2.1::com.ti.mmwave_automotive_toolbox__2.9.1::com.ti.mmwave_industrial_toolbox__4.2.1::msp430ware__3.80.09.03::powerSUITE_software_package__2.05.01.00::com.ti.SAIL__1.50.00.00::com.ti.SIMPLELINK_AUDIO_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_BLE_PLUGIN_AZURE_GATEWAY_EXAMPLE_PACK__3.20.00.22::com.ti.SIMPLELINK_CC13X0_SDK__3.20.00.23::com.ti.SIMPLELINK_CC13X2_26X2_SDK__3.40.00.02::com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.50.00.62::com.ti.SIMPLELINK_CC32XX_SDK__3.40.00.05::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__3.20.00.24::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__2.40.00.22::com.ti.SIMPLELINK_SDK_LVGL_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__2.20.00.08::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__2.20.00.05::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__1.50.00.15::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__2.20.00.06::com.ti.ti154stack_linux_x64__3.30.00.12::tirtos_cc13xx_cc26xx__2.21.00.06::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::com.ti.WATSON_CC32XX__1.20.00.04::com.ti.WATSON_MSP432E4__1.20.00.04::xdctools__3.60.02.34",
+    "packageOrder": 242
+  },
+  {
+    "text": "smartrf_settings",
+    "type": "folder",
+    "numChildren": 0,
+    "numChildrenLocal": 2,
+    "children": true,
+    "state": {
+      "opened": false
+    },
+    "packageUId": "com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "url": "/api/resources?path=Software/SimpleLink%20CC2640R2%20SDK/Examples/Development%20Tools/CC2640R2%20LaunchPad/TI%20Drivers/rfPacketTx/TI-RTOS/CCS%20Compiler/rfPacketTx&package=c2000ware_software_package__1.00.03.00::com.ti.SIMPLELINK_MSP432E4_SDK__3.40.01.02::motor_control_c2000ware_sdk_software_package__2.01.00.00::digital_power_c2000ware_sdk_software_package__3.00.00.00::sitara__1.02.00.00::ascstudio__1.0.0.0::com.ti.AWS_CC32XX__3.30.00.03::com.ti.AWS_MSP432E4__3.30.00.03::com.ti.AZURE_CC32XX__3.30.00.02::com.ti.AZURE_MSP432E4__3.30.00.02::energia.boards.cc13xx__5.20.0::energia.boards.cc3220emt__5.6.2::energia.core__18.0.0::energia.boards.msp432r__5.25.2::energia.tool.arm-none-eabi-gcc__6.3.1-20170620::energia.tool.ino2cpp__1.0.6::arm.gnu__9.2.1::com.ti.mmwave_automotive_toolbox__2.9.1::com.ti.mmwave_industrial_toolbox__4.2.1::msp430ware__3.80.09.03::powerSUITE_software_package__2.05.01.00::com.ti.SAIL__1.50.00.00::com.ti.SIMPLELINK_AUDIO_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_BLE_PLUGIN_AZURE_GATEWAY_EXAMPLE_PACK__3.20.00.22::com.ti.SIMPLELINK_CC13X0_SDK__3.20.00.23::com.ti.SIMPLELINK_CC13X2_26X2_SDK__3.40.00.02::com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.50.00.62::com.ti.SIMPLELINK_CC32XX_SDK__3.40.00.05::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__3.20.00.24::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__2.40.00.22::com.ti.SIMPLELINK_SDK_LVGL_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__2.20.00.08::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__2.20.00.05::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__1.50.00.15::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__2.20.00.06::com.ti.ti154stack_linux_x64__3.30.00.12::tirtos_cc13xx_cc26xx__2.21.00.06::tirtos_tivac__2.16.00.08::tm4c__2.1.4.178::com.ti.WATSON_CC32XX__1.20.00.04::com.ti.WATSON_MSP432E4__1.20.00.04::xdctools__3.60.02.34",
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10",
+    "removeofflineLink": "api/resources?package=arm.gnu__9.2.1::ascstudio__1.0.0.0::c2000ware_devices_package__3.01.00.00::c2000ware_devtools_package__3.01.00.00::c2000ware_software_package__1.00.03.00::cc13x0_devices__1.11.00.00::cc13xx_devtools__1.05.02.00::cc26x0_devices__1.11.00.00::cc26xx_devtools__1.03.02.00::cc31xx_devices__1.00.00.00::cc32xx_devices__1.00.00.00::cc32xx_devtools__2.40.01.00::ccs_devtools__2.00.00.02::com.temboo.Lib__1.0.0::com.ti.AWS_CC32XX__3.30.00.03::com.ti.AWS_MSP432E4__3.30.00.03::com.ti.AZURE_CC32XX__3.30.00.02::com.ti.AZURE_MSP432E4__3.30.00.02::com.ti.HAP_CC26X2__3.30.00.02::com.ti.HAP_CC32XX__3.30.00.02::com.ti.SAIL__1.50.00.00::com.ti.SIMPLELINK_ACADEMY_154STACKPLUGIN__3.20.01.00::com.ti.SIMPLELINK_ACADEMY_AWSPLUGIN__3.40.01.00::com.ti.SIMPLELINK_ACADEMY_BLEPLUGIN__3.10.02.00::com.ti.SIMPLELINK_ACADEMY_CC13X0SDK__3.20.01.00::com.ti.SIMPLELINK_ACADEMY_CC13X2_26X2_SDK__3.40.02.01::com.ti.SIMPLELINK_ACADEMY_CC2640R2SDK__3.40.02.00::com.ti.SIMPLELINK_ACADEMY_CC32XXSDK__3.40.02.00::com.ti.SIMPLELINK_ACADEMY_MSP432E4SDK__3.30.01.00::com.ti.SIMPLELINK_ACADEMY_MSP432SDK__3.30.01.00::com.ti.SIMPLELINK_ACADEMY_WIFIPLUGIN__2.40.00.17::com.ti.SIMPLELINK_ACADEMY_ZIGBEEPLUGIN__2.20.02.02::com.ti.SIMPLELINK_AUDIO_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_BLE_PLUGIN_AZURE_GATEWAY_EXAMPLE_PACK__3.20.00.22::com.ti.SIMPLELINK_CC13X0_SDK__3.20.00.23::com.ti.SIMPLELINK_CC13X2_26X2_SDK__3.40.00.02::com.ti.SIMPLELINK_CC2640R2_SDK_BLE_EXAMPLE_PACK__1.50.00.62::com.ti.SIMPLELINK_CC2640R2_SDK__3.40.00.10::com.ti.SIMPLELINK_CC32XX_SDK__3.40.00.05::com.ti.SIMPLELINK_MSP432E4_SDK__3.40.01.02::com.ti.SIMPLELINK_MSP432_SDK_WIFI_PLUGIN__2.40.00.22::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::com.ti.SIMPLELINK_SDK_BLE_PLUGIN__3.20.00.24::com.ti.SIMPLELINK_SDK_LVGL_PLUGIN__3.30.00.06::com.ti.SIMPLELINK_SDK_NFC_PLUGIN__2.20.00.08::com.ti.SIMPLELINK_SDK_TI_15_4_STACK_PLUGIN__2.20.00.05::com.ti.SIMPLELINK_SDK_VOICE_DETECTION_PLUGIN__1.50.00.15::com.ti.SIMPLELINK_ZIGBEE_SDK_PLUGIN__2.20.00.06::com.ti.WATSON_CC32XX__1.20.00.04::com.ti.WATSON_MSP432E4__1.20.00.04::com.ti.mmwave_automotive_toolbox__2.9.1::com.ti.mmwave_devices__2.0.0::com.ti.mmwave_devtools__1.0.0::com.ti.mmwave_industrial_toolbox__4.2.1::com.ti.ti154stack_linux_x64__3.30.00.12::digital_power_c2000ware_sdk_software_package__3.00.00.00::energia.boards.cc13xx__5.20.0::energia.boards.cc3220emt__5.6.2::energia.boards.msp432r__5.25.2::energia.core__18.0.0::energia.tool.arm-none-eabi-gcc__6.3.1-20170620::energia.tool.ino2cpp__1.0.6::energia_devtools__1.00.00.00::motor_control_c2000ware_sdk_software_package__2.01.00.00::msp430_devices__3.80.09.03::msp430_devtools__3.80.09.03::msp430ware__3.80.09.03::msp432_devices__2.30.00.01::msp432_devtools__2.30.00.01::powerSUITE_software_package__2.05.01.00::sdtoutilities__2.00.00.02::simplelink-devtools__1.00.13.02::sitara__1.02.00.00::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tirtos_cc13xx_cc26xx__2.21.00.06::tirtos_tivac__2.16.00.08::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::tm4c__2.1.4.178::xdctools__3.60.02.34::xdsdebugprobes__2.00.00.01&path=Software/SimpleLink CC2640R2 SDK/Examples/Development Tools/CC2640R2 LaunchPad/TI Drivers/rfPacketTx/TI-RTOS/CCS Compiler/rfPacketTx/smartrf_settings&removeoffline=true",
+    "packageOrder": 242
+  }
+]
